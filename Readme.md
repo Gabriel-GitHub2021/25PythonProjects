@@ -1,5 +1,5 @@
 (Português (Brasil))/
-Olá, sou Gabriel e estou treinando para me tornar um desenvolvedor bem capacitado em diversas linguagens
+Olá, sou Gabriel e estou treinando para me tornar um desenvolvedor bem capacitado em diversas linguagens, 
 então nesse repositório vou colocar meus projetos escritos em Python, assim posso acompanhar
 junto a vocês a minha evolução, e caso alguém veja isso, espero poder ajudar em qualquer dúvida.
 
